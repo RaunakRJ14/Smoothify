@@ -1,0 +1,43 @@
+[build-system]
+requires = ["setuptools >= 61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "smoothify"
+authors = [{name = "Nick Wright", email = "nicholas.wright@dpird.wa.gov.au"}]
+dynamic = ["version"]
+description = "Transform pixelated geometries from raster data into smooth natural looking features"
+requires-python = ">=3.10"
+dependencies = [
+    "geopandas>=1.0.0",
+    "joblib>=1.4.0",
+    "numpy>=1.27.0",
+    "scipy>=1.11.0",
+    "shapely>=2.0.2",
+]
+
+license = "MIT"
+readme = {file = "README.md", content-type = "text/markdown"}
+keywords = ["geometry", "smoothing", "smooth", "GIS", "raster", "vector", "chaikin", "shapely", "geopandas"]
+
+
+[tool.setuptools.dynamic]
+version = {attr = "smoothify.__version__.__version__"}
+
+[dependency-groups]
+dev = [
+    "descartes>=1.1.0",
+    "ipykernel>=6.29.5",
+    "matplotlib>=3.9.4",
+    "pytest>=8.4.2",
+    "pytest-cov>=6.0.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/DPIRD-DMA/Smoothify"
+
+[tool.setuptools]
+packages = ["smoothify"]
+
+[tool.ruff.lint]
+select = ["E", "F", "B"]
