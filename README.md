@@ -5,6 +5,7 @@
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/DPIRD-DMA/Smoothify/blob/main/LICENSE)
 [![PyPI version](https://img.shields.io/pypi/v/smoothify.svg)](https://pypi.org/project/smoothify/)
+[![Conda version](https://img.shields.io/conda/vn/conda-forge/smoothify.svg)](https://anaconda.org/conda-forge/smoothify)
 [![Tutorials](https://img.shields.io/badge/Tutorials-Learn-brightgreen)](https://github.com/DPIRD-DMA/Smoothify/tree/main/examples)
 
 📋 [View Changelog](https://github.com/DPIRD-DMA/Smoothify/blob/main/CHANGELOG.md)
