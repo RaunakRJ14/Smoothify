@@ -42,6 +42,11 @@ or
 pip install smoothify
 ```
 
+or 
+```bash
+conda install conda-forge::smoothify
+```
+
 ## Quick Start
 
 ```python
